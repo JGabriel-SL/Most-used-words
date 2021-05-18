@@ -1,23 +1,27 @@
 # most-used-words
 
-## Project setup
+## About the project
+
+### A little application to count the numbers of words repeated. This project uses electron to run the application
+
+## Install dependencies
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run without electron
 ```
 npm run serve
+```
+
+### Run with electron
+```
+npm run electron:serve
 ```
 
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
