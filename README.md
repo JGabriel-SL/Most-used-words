@@ -15,17 +15,17 @@
 npm install
 ```
 
-### Run without electron
+### ⚡ Run without electron
 ```
 npm run serve
 ```
 
-### Run with electron
+### ⚡ Run with electron
 ```
 npm run electron:serve
 ```
 
-### Compiles for production
+### ⚡ Compiles for production
 ```
 npm run build
 ```
