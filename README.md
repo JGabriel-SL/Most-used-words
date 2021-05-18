@@ -1,10 +1,16 @@
 # most-used-words
 
-## About the project
+## 📖 About the project
 
-### A little application to count the numbers of words repeated. This project uses electron to run the application
+### A little application to count the numbers of words repeated. This project uses electron to run the application.
 
-## Install dependencies
+## 💻 Technologies
+
+- Vue JS
+- Eletron JS 
+- Vuetify
+
+## 👨‍💻 Install dependencies 
 ```
 npm install
 ```
@@ -19,10 +25,7 @@ npm run serve
 npm run electron:serve
 ```
 
-### Compiles and minifies for production
+### Compiles for production
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
